@@ -13,13 +13,13 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 +How well those variables describe the bike demands
 
 ## The Solution is divided into the following sections:
-+Reading and Understanding the Data
-+Data Visualisation
-+Drop Unnecessary Columns
-+Data Preparation
-+Splitting the Data into Training and Testing Sets
-+Rescaling the Features
-+Building a linear model
-+Residual Analysis of the train data
-+Making Predictions
-+Model Evaluation
++ Reading and Understanding the Data
++ Data Visualisation
++ Drop Unnecessary Columns
++ Data Preparation
++ Splitting the Data into Training and Testing Sets
++ Rescaling the Features
++ Building a linear model
++ Residual Analysis of the train data
++ Making Predictions
++ Model Evaluation
